@@ -1,0 +1,9 @@
+{
+  "component": true,
+  "usingComponents": {
+    "life-u-waterfall-left": "/pages/life/life-u-waterfall-left",
+    "life-u-waterfall-right": "/pages/life/life-u-waterfall-right",
+    "u-swiper": "/node-modules/uview-ui/components/u-swiper/u-swiper",
+    "u-waterfall": "/node-modules/uview-ui/components/u-waterfall/u-waterfall"
+  }
+}
